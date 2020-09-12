@@ -21,7 +21,7 @@ export default () => {
               <p>Hola, la hora actual es {date.toLocaleTimeString()}</p>
             </div>
           </section>
-          <i class="nes-bcrikko"></i>
+          <i className="nes-mario"></i>
         </section>
       </section>
     </div>
