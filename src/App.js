@@ -1,3 +1,6 @@
 import React from 'react';
+import Clock from './Components/Clock'
 
-export default () => <h1>Hello Mundo</h1>
+export default () => {
+  return <Clock />
+}

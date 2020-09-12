@@ -1,0 +1,10 @@
+.container { 
+  display: flex;
+  justify-content: center;
+}
+.child {
+  margin: 0 auto;
+}
+.child > p {
+  font-size: 6rem;
+}
